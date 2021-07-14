@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PagamentoDomain.IServiceBus
+﻿namespace PagamentoDomain.IServiceBus
 {
-    class IServiceBusDetalhesPagamento
+    public interface IServiceBusDetalhesPagamento
     {
+        void Subscribe();
     }
 }

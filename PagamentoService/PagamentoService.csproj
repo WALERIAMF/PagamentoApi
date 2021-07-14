@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="ServiceBus\" />
-    <Folder Include="Service\" />
     <Folder Include="Validators\" />
   </ItemGroup>
 
